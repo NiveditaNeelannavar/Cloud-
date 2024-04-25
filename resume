@@ -1,0 +1,65 @@
+<body>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="resumestyles.css" />
+  <div class="left-box">
+    <div class="top-left">
+    <img src="C:\Users\nived\Pictures\Screenshots\resume profile pic.png"alt="My resume">
+    <h1 style="color:white;"> My Resume </h1>
+      <div class="objective">
+      <h2>About me</h2>
+         <div class="objective-text">I am a web designer having specialization in web design</div>
+      </div>
+      <div class="phone">
+          <h2>Contact me</h2>
+         <div class="phone-text">123-456-7890<br>mobile<br><br>radha@gmail.com<br>office email <br><br>9995556668<br>office number
+     </div>
+      </div>
+      
+  </div>
+  </div>
+   <div class="work-experience">
+      <div class="work-img"> </div>
+      <h1 class="work-title">Work Experience</h1>
+     <div class="job-box">
+     <div class="job-title">Technical Consultant Web Design</div>
+   <div class="job-date">Jan 2015 - Present</div>
+   <div class="job-discription"> Working as the senior most Web Designer and the board member of this Company.</div>
+     </div>
+     <div class="job-box">
+     <div class="job-title">Web Designer at AMIT Bengaluru</div>
+     <div class="job-date">Apr 2008- Jan 2015</div>
+     <div class="job-discription"> Worked as the senior most Web Designer and the board member of this Company.</div>
+     
+    </div>
+     <div class="job-box">
+     <div class="job-title">Internet Web Designer at MITE</div>
+     <div class="job-date">Apr 2000 - Apr 2008</div>
+     <div class="job-discription"> Worked as the senior most Web Designer and the board member of this Company.</div>
+     
+    </div>
+  </div>
+  <div class="education">
+    <div class="work-img"> </div>
+    <h1 class="work-title">Educational Qualification</h1>
+    <div class="education-box">
+     <div class="education-title"><h1>Degree</h1></div>
+     <div class="education-date">Sep1996 - Feb 2000</div>
+     <div class="education-description">Collegename: SUIET College</div>
+    <div class="Language">
+<div class="Skills">
+    <h2 style="color:blue;">Skills</h2>
+    <ul>
+    <li><b>Programming Languages : Python, Java, C++</b></li>
+</ul>
+    </div>
+<div class="Hobbies">
+<h2 style="color:blue;">Hobbies</h2>
+<ul>
+<li>Reading novels</li>
+</ul>
+</div>
+</div>
+<div class="Summary">
+    <h2 style="color:blue;">Summary:</h2>
+    <p style="color:brown;">To secure a challenging position in a reputable organization to expand my Knowledge</p>
+    </div>
